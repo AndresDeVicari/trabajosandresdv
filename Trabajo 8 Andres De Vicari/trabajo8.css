@@ -1,0 +1,25 @@
+
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navbar{
+    border-style: inset;
+    display: flex;
+    position: relative;
+
+}
+
+.nav{
+    justify-content: center;
+    font-size: large;
+   
+}
+
+.carousel-inner{
+
+    width: 200px;
+    margin: auto;
+
+}

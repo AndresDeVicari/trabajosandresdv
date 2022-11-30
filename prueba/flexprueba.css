@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.carousel-inner{
+
+  display: flex;
+  justify-content: center;
+  border: 2px solid yellow;
+  margin: auto;
+  
+}
+

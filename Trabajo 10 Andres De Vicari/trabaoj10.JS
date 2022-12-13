@@ -51,3 +51,40 @@ else
     if (edad <= 20)
         alert("No puedes entrar");
 }
+
+
+
+var a
+var b
+var c
+
+prompt = ("ingrese numero1")
+prompt = ("ingrese numero2")
+prompt = ("ingrese numero3")
+
+
+if (a> b)
+{
+if (a> c) 
+
+{alert ("el numero mayor es" + a);}}
+
+
+
+
+
+
+else if (b> a)
+
+{
+else if(b> c)
+
+
+alert ("el numero mayor es" + b);}}
+
+{
+else if(c> a)
+else (c> b)
+}
+alert ("el numero mayor es" + c);
+
